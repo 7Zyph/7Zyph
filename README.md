@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Zyph
 - 👀 I make games :)
-- 📫 How to reach me: you don't
-- 😄 Pronouns: She/Her
 
 
 <!---
